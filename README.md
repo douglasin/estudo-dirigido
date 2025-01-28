@@ -1,4 +1,5 @@
 # estudo-dirigido
+https://estudo-dirigido.my.canva.site/
 Sejam bem vindos ao repositório de estudo dirigido!! Aqui iremos pesquisar sobre vários temas voltados para tecnologia que são necessários para um programador, além de saber programar.
 # Objetivo final:
 Construir um site colaborativo chamado Dicionário do Programador Infinito
