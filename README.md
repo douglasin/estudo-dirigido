@@ -1,4 +1,6 @@
 # estudo-dirigido
+![image](https://github.com/user-attachments/assets/a5f3af13-1efc-49cd-963d-4e0a65ad33d7)
+
 https://estudo-dirigido.my.canva.site/
 Sejam bem vindos ao repositório de estudo dirigido!! Aqui iremos pesquisar sobre vários temas voltados para tecnologia que são necessários para um programador, além de saber programar.
 # Objetivo final:
